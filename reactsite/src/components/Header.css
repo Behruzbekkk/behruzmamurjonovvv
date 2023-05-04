@@ -1,0 +1,100 @@
+.header{
+    max-width: 360px;
+    margin-top: 30px;
+    height: 700px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
+.header-card{
+    max-width: 320px;
+    height: 200px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background: radial-gradient(128.88% 128.88% at 103.9% -10.39%, #E84D70 0%, #A337F6 53.09%, #28A7ED 100%)
+}
+.header-second-card{
+    max-width: 320px;
+    height: 230px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(196, 192, 201);
+}
+.header-third-card{
+    display: flex;
+    max-width: 320px;
+    height: 230px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: rgb(196, 192, 201);
+}
+h1 {
+    color: #fff;
+    margin-left: 30px;
+    padding-top: 100px;
+    font-family: sans-serif;
+}
+.header-paraghraph {
+    font-size: 17px;
+    color: #fff;
+    margin-left: 30px;
+    font-family: sans-serif;
+}
+.header-btn:first-child{
+    background-color: 
+    #4661E6;
+    color: #fff;
+}
+.header-btn{
+    width: 70px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+    color: blue;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 800;
+    height: 32px;
+    background-color: rgb(190, 185, 185);
+}
+.header-big-btn{
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: none;
+    color: blue;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    height: 32px;
+    background-color: rgb(190, 185, 185);
+}
+.header-second-paragraph{
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: 800;
+    margin-left: 30px;
+    color: #3A4374;
+    font-family: sans-serif;
+}
+.header-link{
+    font-size: 15px;
+    font-weight: 800;
+    color: #4661E6;
+    margin-top: 40px;
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+.li{
+    margin-top: 50px;
+    color: 
+    #647196;
+    margin-left: -285px;
+}
+.li-sec{
+    margin-top: 20px;
+    color: 
+    #647196;
+    margin-left: -285px;
+}
